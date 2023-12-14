@@ -25,6 +25,3 @@ MIDI는 Musical Instrument Digital Interface의 줄임말로 전자 악기의 �
 ![내부1](사진영상/내부모습.jpg)
 
 ![내부2](사진영상/내부모습2.jpg)
-
->**시연 영상**
-
